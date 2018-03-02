@@ -1,0 +1,14 @@
+:Base SETUP800.HLP
+:Title Windmill Setup800 Help Contents
+2 Overview=Overview
+2 Selecting a logger=Start
+2 Changing the time and date=Clock
+2 Changing the epoch length=Epoch
+2 Changing the baud rate=Baud
+2 Viewing the number of seconds to the next epoch=NextEpoch
+2 Setting the on and off time before a count is logged=OnOff
+2 Displaying and saving data=Save
+2 Changing the Microlink number=Number
+2 Displaying the type of unit=Type
+2 Web site=Web
+2 Your comments on the help=Help

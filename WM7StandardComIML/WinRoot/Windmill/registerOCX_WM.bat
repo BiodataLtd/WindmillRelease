@@ -1,0 +1,7 @@
+regsvr32 "C:\windmill\comdlg32.ocx"
+regsvr32 "C:\windmill\mscomctl.ocx"
+regsvr32 "C:\windmill\msflxgrd.ocx"
+regsvr32 "C:\windmill\mscomct2.ocx"
+regsvr32 "C:\windmill\mscomm32.ocx"
+regsvr32 "C:\windmill\mswinsck.ocx"
+regsvr32 "C:\windmill\tabctl32.ocx"
